@@ -55,7 +55,8 @@ li {
 }
 
 #coder {
-  position: relative;
-  left: 175px;
-  bottom: 10px;
+  display: block;
+  margin: 0 auto;
+  width: 590px;
+  bottom: 290px;
 }
